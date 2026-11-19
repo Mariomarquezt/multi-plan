@@ -1,3 +1,5 @@
+> **Moved.** This skill now lives in the bundle **[multi-flow-skills](https://github.com/Mariomarquezt/multi-flow-skills)** (`skills/multi-plan`), together with `multi-flow`, `sliced-review` and the shared model list. This repo is archived and will not get updates.
+
 # multi-plan
 
 A [Claude Code](https://claude.com/claude-code) skill that turns an idea into a build plan, then
